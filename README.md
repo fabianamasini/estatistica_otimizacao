@@ -1,5 +1,5 @@
 # Estatística e Otimização para Ciência de Dados e Pesquisa Operacional (CDPO)
-Fornecido pelo ICMC da USP São Carlos
+Fornecido pelo ICMC da USP São Carloss
 
 - [Estatística e Otimização para Ciência de Dados e Pesquisa Operacional (CDPO)](#estatística-e-otimização-para-ciência-de-dados-e-pesquisa-operacional-cdpo)
   - [Conteúdo do curso](#conteúdo-do-curso)
